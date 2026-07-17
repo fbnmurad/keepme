@@ -1,0 +1,18 @@
+PTI7955-343 - [US] [BRM] [FUNCIONAL] Criação dos Relatórios Contábeis BRM - FLX
+PTI7955-344 - [US] [BRM] [FUNCIONAL] Criação da Interface Contábil Faturado - Flexbill - Pós-pago para TBRA
+PTI7955-345 - [US3] [BRM] [FUNCIONAL] - Exclusão de Dados Flexbill em Relatórios Faturado BRM e Interface BFAT - TBRA
+PTI7955-402 v2 [US] [BRM / BILLING CARE] [FUNCIONAL] - Consultar status de faturamento Billnow pela listagem de faturas
+PTI7955-242 - [US] [BRM] [FUNCIONAL] Adequar Relatórios de Faturamento para Exclusão de Dados Flexbill
+PTI7955-263 - [US] [BRM] [FUNCIONAL] Novos Relatórios de Faturamento Flexbill - FLX
+PTI7955-378 [US] [BRM / CONTROL-M] [FUNCIONAL] - Passagem do parâmetro -flexbill no job c_pin_inv da cadeia BRM_PROFORMA
+PTI7955-389 [US] [BILLING CARE / BRM] [FUNCIONAL] - Consultar visão Billnow da tela Faturamento On Demand
+PTI7955-404 - [US] [GTW/SFA/BRM] [FUNCIONAL] - Expor API para notificar o status da solicitação de faturamento ao Salesforce
+PTI7955-405 - [US] [GTW/BRM] [FUNCIONAL] - Inclusão dos campos PRODUTO_1 e PRODUTO_2 na integração /tlf/accounts/package
+PTI7955-403 - [SFA/BILLING CARE / BRM] [FUNCIONAL] - Criar API e OPCODE para notificar o status da solicitação de faturamento ao Salesforce
+PTI7955-402 [US] [BRM / BILLING CARE] [FUNCIONAL] - Criar API e OPCODE para consulta do status de faturamento Billnow
+PTI7955-352 v3 [US] [BILLING CARE / BRM] [TÉCNICA] - Criar API e OPCODE para listar faturas do Trial Billing
+PTI7955-362 v2 [US] [BILLING CARE / BRM] [FUNCIONAL] - Criar tela de consulta e ação operacional de Trial Billing
+PTI7955-448 [US] [BILLING CARE / BRM] [FUNCIONAL] - Tratamento de motivos e notificações na tela Trial de Faturamento On Demand
+PTI7955-451 - [US] [BRM] - Restringir execução do pin_bill_accts aos billing segments 101, 102 e 103 na cadeia de faturamento
+[PTI7955-505] [US] [BRM] [TÉCNICA] - Criar API no BRM para execução do BillNow no fluxo FlexBill
+PTI7955-353 v2 [US] [BILLING CARE / BRM] [TÉCNICA] - Criar API e OPCODE para consulta do detalhe do Trial Billing e dos artefatos gerados
